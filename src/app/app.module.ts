@@ -21,10 +21,12 @@ import { PriorityModalComponent } from './priority-modal/priority-modal.componen
 
 import * as enUS from '../assets/i18n/en-US.json';
 import * as frFR from '../assets/i18n/fr-FR.json';
+import * as ptBR from '../assets/i18n/pt-BR.json';
 
-const langs = { 
-  'en-US': (enUS as any).default || enUS, 
-  'fr-FR': (frFR as any).default || frFR 
+const langs = {
+  'en-US': (enUS as any).default || enUS,
+  'fr-FR': (frFR as any).default || frFR,
+  'pt-BR': (ptBR as any).default || ptBR
 };
 
 export class JSONLoader implements TranslateLoader {
@@ -38,11 +40,11 @@ export class JSONLoader implements TranslateLoader {
   bootstrap: [AppComponent],
   entryComponents: [FactionMenuComponent, PriorityModalComponent],
   imports: [
-    BrowserModule, 
-    IonicModule.forRoot(), 
+    BrowserModule,
+    IonicModule.forRoot(),
     AppRoutingModule,
     FormsModule,
-    
+
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,

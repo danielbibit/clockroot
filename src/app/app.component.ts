@@ -24,6 +24,8 @@ export class AppComponent implements OnInit {
       const baseLang = navigator.language || 'en-US';
       if (baseLang.split('-')[0] === 'fr') {
         this.language = 'fr-FR';
+      } else if (baseLang.split('-')[0] === 'pt') {
+        this.language = 'pt-BR';
       } else {
         this.language = 'en-US';
       }
