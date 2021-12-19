@@ -11,7 +11,7 @@
   "DirectorsCut": "Director's Cut",
   "BotSetup": {
     "Setup": "Setup",
-    "PriorityMarkers": "Set up priority markers for the map.",
+    "PriorityMarkers": "Prepare os marcadores de prioridade no mapa.",
     "ChooseDifficulty": "Selecione a dificuldade",
     "Difficulty": {
       "Easy": "Fácil",
@@ -25,81 +25,81 @@
       "Challenging": "Master",
       "Nightmare": "Modo boss"
     },
-    "ChooseVagabot": "Choose Vagabot",
-    "ChooseTraits": "Choose Traits",
-    "DifficultyText": "Difficulty",
-    "TurmoilText": "You fall into Turmoil if you cannot place a roost.",
-    "TurmoilNobilityText": "You fall into Turmoil if you cannot place a roost or warrior."
+    "ChooseVagabot": "Escolha o Automalandro",
+    "ChooseTraits": "Escolha os traços",
+    "DifficultyText": "Dificuldade",
+    "TurmoilText": "Você cai em tumulto se não conseguir posicionar um ninho.",
+    "TurmoilNobilityText": "Você cai em tumulto se não conseguir posicionar um ninho ou guerreiro."
   },
-  "AddBot": "Add a bot by clicking the",
+  "AddBot": "Adicione um autômato clicando em",
   "Factions": {
-    "Mechanical Marquise": "Mechanical Marquise",
-    "Electric Eyrie": "Electric Eyrie",
-    "Automated Alliance": "Automated Alliance",
-    "Vagabot": "Vagabot",
-    "Mechanical Marquise (DC)": "Mechanical Marquise (DC)",
-    "Electric Eyrie (DC)": "Electric Eyrie (DC)",
-    "Automated Alliance (DC)": "Automated Alliance (DC)",
-    "Vagabot (DC)": "Vagabot (DC)"
+    "Mechanical Marquise": "Marquês Mecânico",
+    "Electric Eyrie": "Rapinas Elétricas",
+    "Automated Alliance": "Aliança Automatizada",
+    "Vagabot": "Automalandro",
+    "Mechanical Marquise (DC)": "Marquês Mecânico (DC)",
+    "Electric Eyrie (DC)": "Rapinas Elétricas (DC)",
+    "Automated Alliance (DC)": "Aliança Automatizada (DC)",
+    "Vagabot (DC)": "Automalandro (DC)"
   },
   "FactionsShort": {
-    "Mechanical Marquise": "M. Marquise",
-    "Electric Eyrie": "E. Eyrie",
-    "Automated Alliance": "A. Alliance",
-    "Vagabot": "Vagabot",
-    "Mechanical Marquise (DC)": "M. Marquise (DC)",
-    "Electric Eyrie (DC)": "E. Eyrie (DC)",
-    "Automated Alliance (DC)": "A. Alliance (DC)",
-    "Vagabot (DC)": "Vagabot (DC)"
+    "Mechanical Marquise": "Marquês Mec.",
+    "Electric Eyrie": "Rapinas E.",
+    "Automated Alliance": "Aliança Aut.",
+    "Vagabot": "Automalandro",
+    "Mechanical Marquise (DC)": "Marquês Mec. (DC)",
+    "Electric Eyrie (DC)": "Rapinas E. (DC)",
+    "Automated Alliance (DC)": "Aliança Aut. (DC)",
+    "Vagabot (DC)": "Automalandro (DC)"
   },
   "Priorities": {
-    "Title": "Map Priorities",
-    "Fall": "Fall",
-    "Winter": "Winter",
-    "Lake": "Lake",
-    "Mountain": "Mountain"
+    "Title": "Prioridade de Clareiras",
+    "Fall": "Outono",
+    "Winter": "Inverno",
+    "Lake": "Lago",
+    "Mountain": "Montanhas"
   },
   "Sections": {
-    "DifficultyTraits": "Difficulty & Traits",
-    "VPItems": "Victory Points & Items",
-    "DecreeRoosts": "Decree & Roosts",
-    "Buildings": "Buildings",
-    "Birdsong": "Birdsong",
-    "Daylight": "Daylight",
-    "Evening": "Evening",
-    "Turmoil": "Turmoil",
+    "DifficultyTraits": "Dificuldade & Traços",
+    "VPItems": "Pontos de Vitória & Itens",
+    "DecreeRoosts": "Decreto & Ninhos",
+    "Buildings": "Construções",
+    "Birdsong": "Amanhecer",
+    "Daylight": "Dia",
+    "Evening": "Anoitecer",
+    "Turmoil": "Tumulto",
     "BattleTrackBonus": "Battle Track Bonus",
     "SatchelBattleTrack": "Satchel & Battle Track",
-    "SympathyBases": "Sympathy & Bases",
-    "VagabotDifficultyTrait": "Vagabot, Difficulty, Traits"
+    "SympathyBases": "Simpatia & Bases",
+    "VagabotDifficultyTrait": "Automalandro, Dificuldade, Traços"
   },
   "SpecificSetup": {
     "Electric Eyrie": {
-      "Setup0": "Form a supply of 20 warriors near you.",
-      "Setup1": "Place 1 roost and 6 warriors in the corner clearing diagonally opposite from the clearing with the keep token. If the Marquise is not playing, place those pieces in a random corner clearing.",
+      "Setup0": "Forme um suprimento de 20 guerreiros próximos de você.",
+      "Setup1": "Posicione 1 ninho e 6 guerreiros na clareira diagonalmente oposta à clareira onde encontra-se a torre da guarda. Caso os Marqueses não participem desta partida, posicione estas peças em uma clareira aleatória dos cantos do mapa.",
       "Setup2": "",
-      "Setup3": "Collect your remaining 6 roost buildings and place them near you."
+      "Setup3": "Coloque os 6 ninhos restantes perto de você."
     },
     "Vagabot": {
-      "Setup0": "Place the Vagabot pawn in the forest adjacent to the most clearings. If there are multiple such forests, decide randomly among those.",
-      "Setup1": "Shuffle the quest deck, draw 1 quest card, and place it face up near you. This quest can only be completed by the bot.",
-      "Setup2": "Place any 1 item marked \"R\" beneath each ruin on the map.",
-      "Setup3": "Take any 4 items marked \"S\" and place them in your Satchel. _(The Tinker starts with 3 items instead of 4 items.)_"
+      "Setup0": "Coloque o peão do Automalandro na floresta adjacente a maior quantidade de clareiras. Caso existe multiplas florestas possíveis, decida aleatóriamente entre estas.",
+      "Setup1": "Embaralhe as cartas de tarefa, compre 1 carta de tarefa e a coloque virada para cima próximo à você. Essa tarefa só pode ser completada pelo autômato.",
+      "Setup2": "Coloque os marcador com \"R\" sob cada ruina no mapa.",
+      "Setup3": "Pegue quaisquer 4 itens marcados com \"S\" e posicione-os em sua mochila. _(O Funileiro começa com 3 itens ao invés de 4)_"
     },
     "Automated Alliance": {
-      "Setup0": "Form a supply of 10 warriors near you.",
-      "Setup1": "Collect your 3 bases and place them near you.",
-      "Setup2": "Collect your 10 sympathy tokens and place them near you."
+      "Setup0": "Forme um suprimento de 10 guerreiros próximo de você.",
+      "Setup1": "Coloque suas 3 bases perto de você.",
+      "Setup2": "Coloque seus 10 tokens de simpatia perto de você."
     },
     "Mechanical Marquise": {
-      "Setup0": "Form a supply of 25 warriors near you.",
-      "Setup1": "Place the keep token in a random corner clearing.",
-      "Setup2": "Place a warrior in each clearing, except the corner clearing diagonally opposite from the keep. Place an extra warrior in the clearing with the keep token. _(Place 12 warriors in total.)_",
-      "Setup3": "Place 1 sawmill, 1 workshop and 1 recruiter randomly among the clearing with the keep token and those clearings adjacent with up to one building per clearing.",
-      "Setup4": "Collect your remaining 15 buildings and place them near you."
+      "Setup0": "Forme um suprimento de 25 guerreiros próximo de você.",
+      "Setup1": "Posicione a Torre de Guarda, aleatoriamente, em uma clareira no canto do mapa.",
+      "Setup2": "Posicione um guerreiro em cada clareira, exceto na clareira diagonalmente oposta à Torre de Guarda. Posicione um guerreiro a mais na clareira onde está a Torre de Guarada. _(Posicione 12 guerreiros no total.)_",
+      "Setup3": "Posicione aleatoriamente 1 serraria, 1 oficina e 1 recrutador entre a clareira com a torre da guarda e as clareiras adjacentes a esta, com o limite de apenas uma construção por clareira.",
+      "Setup4": "Coloque suas 15 Construções restantes próximo à você"
     },
     "Electric Eyrie (DC)": {
-      "Setup0": "Form a supply of 20 warriors near you.",
+      "Setup0": "Forme um suprimento de 20 guerreiros próximo de você.",
       "Setup1": "Place 1 roost and 6 warriors in the corner clearing diagonally opposite from the clearing with the keep token. If the Marquise is not playing, place those pieces in a random corner clearing.",
       "Setup2": "",
       "Setup3": "Collect your remaining 6 roost buildings and place them near you."
@@ -111,12 +111,12 @@
       "Setup3": "Take any 4 items marked \"S\" and place them in your Satchel. _(The Tinker starts with 3 items instead of 4 items.)_"
     },
     "Automated Alliance (DC)": {
-      "Setup0": "Form a supply of 10 warriors near you.",
+      "Setup0": "Forme um suprimento de 10 guerreiros próximo de você.",
       "Setup1": "Collect your 3 bases and place them near you.",
       "Setup2": "Collect your 10 sympathy tokens and place them near you."
     },
     "Mechanical Marquise (DC)": {
-      "Setup0": "Form a supply of 25 warriors near you.",
+      "Setup0": "Forme um suprimento de 25 guerreiros próximo de você.",
       "Setup1": "Place the keep token in a random corner clearing.",
       "Setup2": "Place a warrior in each clearing, except the corner clearing diagonally opposite from the keep. Place an extra warrior in the clearing with the keep token. _(Place 12 warriors in total.)_",
       "Setup3": "Place 1 sawmill, 1 workshop and 1 recruiter randomly among the clearings adjacent to the clearing with the keep token with up to one building per clearing.",
@@ -126,58 +126,58 @@
   "SpecificDifficulty": {
     "Electric Eyrie": {
       "Easy": "During setup, add only one Loyal Vizier to the Decree.",
-      "Normal": "Nothing is changed.",
-      "Challenging": "During setup, take one bird Ambush from the deck and add it to the bird column of the Decree.",
-      "Nightmare": "During setup, take one bird Ambush from the deck and add it to the bird column of the Decree. At the end of Evening, score one victory point."
+      "Normal": "Nada muda.",
+      "Challenging": "Durante a preparação, retire uma Emboscada de passáro do baralho e adicione na coluna de passáro no Decreto.",
+      "Nightmare": "Durante a preparação, retire uma Emboscada de passáro do baralho e adicione na coluna de pássaro no Decreto. Ao anoitecer, ganhe um ponto de vitória."
     },
     "Vagabot": {
       "Easy": "In evening, refresh one fewer item.",
-      "Normal": "Nothing is changed.",
+      "Normal": "Nada muda.",
       "Challenging": "In evening, refresh one more item.",
       "Nightmare": "In evening, refresh one more item. At the end of Evening, score one victory point."
     },
     "Automated Alliance": {
       "Easy": "You only **Organize** if a clearing has four or more Alliance warriors.",
-      "Normal": "Nothing is changed.",
+      "Normal": "Nada muda.",
       "Challenging": "You **Organize** if a clearing has two or more Alliance warriors.",
       "Nightmare": "You **Organize** if a clearing has two or more Alliance warriors. At the end of Evening, score one victory point."
     },
     "Mechanical Marquise": {
       "Easy": "Whenever you **Recruit**, instead place only two warriors.",
-      "Normal": "Nothing is changed.",
+      "Normal": "Nada muda.",
       "Challenging": "Whenever you **Recruit**, also place two warriors in the ordered clearing you rule of highest priority.",
       "Nightmare": "Whenever you **Recruit**, also place two warriors in the ordered clearing you rule of highest priority. At the end of Evening, score one victory point."
     },
     "Electric Eyrie (DC)": {
       "Easy": "Whenever you **Recruit** for bird, instead place one fewer warrior.",
-      "Normal": "Nothing is changed.",
+      "Normal": "Nada muda.",
       "Challenging": "Whenever you **Recruit** for bird, instead place one more warrior.",
       "Nightmare": "Whenever you **Recruit** for bird, instead place one more warrior. At the end of Evening, score one victory point per two players (rounded up)."
     },
     "Vagabot (DC)": {
       "Easy": "In evening, refresh one fewer item.",
-      "Normal": "Nothing is changed.",
+      "Normal": "Nada muda.",
       "Challenging": "In evening, refresh one more item.",
       "Nightmare": "In evening, refresh one more item. At the end of Evening, score one victory point per two players (rounded up)."
     },
     "Automated Alliance (DC)": {
       "Easy": "You only **Organize** if a clearing has four or more Alliance warriors.",
-      "Normal": "Nothing is changed.",
+      "Normal": "Nada muda.",
       "Challenging": "You **Organize** if a clearing has two or more Alliance warriors.",
       "Nightmare": "You **Organize** if a clearing has two or more Alliance warriors. At the end of Evening, score one victory point per two players (rounded up)."
     },
     "Mechanical Marquise (DC)": {
       "Easy": "Whenever you **Recruit**, instead place only three warriors.",
-      "Normal": "Nothing is changed.",
+      "Normal": "Nada muda.",
       "Challenging": "Whenever you **Recruit**, instead place five warriors.",
       "Nightmare": "Whenever you **Recruit**, instead place five warriors. At the end of Evening, score one victory point per two players (rounded up)."
     }
   },
   "SpecificRules": {
-    "RulePoorManualDexterity": "Poor Manual Dexterity",
-    "TextPoorManualDexterity": "You have no hand of cards. You cannot discard cards. If a human would take a card from you, they draw a card instead. If a human would give a card to you, they discard it, and you score **vp:1**.",
-    "RuleHatesSurprises": "Hates Surprises",
-    "TextHatesSurprises": "Ambush cards cannot be played against you.",
+    "RulePoorManualDexterity": "Pouca Destreza Manual",
+    "TextPoorManualDexterity": "Você não possui uma mão de cartas. Você não pode descartar cartas. Se um humano for pegar uma carta de você, ele compra uma carta ao invés disso. Se um humano for dar uma carta para você, ele à descarta e você ganha **vp:1.**",
+    "RuleHatesSurprises": "Odeia Surpresas",
+    "TextHatesSurprises": "Cartas de emboscada não podem ser jogadas contra você.",
     "RuleLordsOfTheForest": "Lords of the Forest",
     "TextLordsOfTheForest": "You rule any clearings where you are tied in presence.",
     "RuleNobility": "Nobility",
@@ -462,9 +462,9 @@
     }
   },
   "ToastMessages": {
-    "UpdateScore": "{{ botname }}'s score has been updated by {{ addend }}.",
+    "UpdateScore": "A pontução do {{ botname }} foi alterada em {{ addend }}.",
     "Actions": {
-      "Undo": "Undo"
+      "Undo": "Desfazer"
     }
   }
 }
